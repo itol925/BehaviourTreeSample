@@ -1,0 +1,16 @@
+E:\unity3dProjects\BehaviourTreeSample\obj\Debug\UnityVS.BehaviourTreeSample.CSharp.csprojResolveAssemblyReference.cache
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\DOTween.dll
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\DOTween43.dll
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\DOTween46.dll
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\DOTween.xml
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\DOTween43.xml
+E:\unity3dProjects\BehaviourTreeSample\Temp\UnityVS_bin\Debug\DOTween46.xml
+E:\unity3dProjects\BehaviourTreeSample\obj\Debug\Assembly-CSharp.dll
+E:\unity3dProjects\BehaviourTreeSample\obj\Debug\Assembly-CSharp.pdb
